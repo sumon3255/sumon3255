@@ -19,7 +19,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/md-shaheenur-islam-sumon-459463188/" target="blank"><img align="center" style="height:30px;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:aryagm01@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aryagm01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Aryagm" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/md-shaheenur-islam-sumon-459463188/" target="blank"><img align="center" style="height:40px;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a> &nbsp;&nbsp;&nbsp;  <a href="sumon3455.ms@gmail.com" target="blank"><img align="center"  style="height:40px;" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Aryagm" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>
