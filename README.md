@@ -15,7 +15,7 @@
 - 🔭: I’m currently studying in Biomedical Engineering.
 - 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻�
 - 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Pyuthob, JAvaScript and Machine Learning algorithms. 📊📈🤖🧠
+- 💬: Ask me about Pyuthon, JAvaScript and Machine Learning algorithms. 📊📈🤖🧠
 - 😄  Pronouns: He/His
 - ⚡  Fun fact: I play Football.It is my hobby! ⚽�
   
